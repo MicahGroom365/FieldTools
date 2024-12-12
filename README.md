@@ -1,99 +1,63 @@
-# Micah Groom - Senior IT Specialist
+# 💻 Highlighted Projects
 
-📍 Placerville, CA  
+## **IT Systems Modernization**  
+🚀 **Transitioning Legacy Systems to Modern Cloud Solutions**  
+- Consolidated company systems from on-premise solutions to **SharePoint Online** and **Azure**, enhancing collaboration and file management.  
+- Streamlined workflows by integrating cloud services with existing operational processes.  
+
+---
+
+## **Custom Timecard App**  
+🕒 **Streamlined Time Tracking for Employees**  
+- Built a user-friendly **Power Apps** and **Power Automate** solution for dynamic task and time management.  
+- Included features like **role-based access**, cascading dropdowns, and conditional logic for error prevention.  
+
+---
+
+## **Intune Device Management**  
+📱 **Centralized Device Management Across Platforms**  
+- Implemented **Microsoft Intune** to manage Windows, Android, and iOS devices.  
+- Enhanced security, compliance, and efficiency in device deployment and management.  
+
+---
+
+## **API Integrations**  
+🔗 **Automating Data Sync Across Platforms**  
+- Developed custom APIs to connect **HR ERP**, **Entra ID**, and **ClickTime**.  
+- Reduced manual data entry and ensured real-time synchronization of critical business data.  
+
+---
+
+## **Automated GIS Reporting**  
+🌍 **FME Workbench for GIS Automation**  
+- Designed workflows in **FME Workbench** to automate dynamic expense reporting and email notifications.  
+- Integrated GIS data with **SharePoint Online** for real-time updates and streamlined reporting.  
+
+---
+
+## **IT Infrastructure for Office Move**  
+🏢 **Seamless Office Setup for 40+ Employees**  
+- Managed IT infrastructure setup, including **Unifi Access**, VoIP phones, multi-functional printers (MFPs), and AV systems.  
+- Ensured minimal downtime and smooth transitions for employees in a new office environment.  
+
+---
+
+## **Vehicle and Safety Tracking App**  
+🚚 **Centralized Job Safety Analysis & Inventory Tracking**  
+- Built an all-in-one app for collecting data on **job safety analysis**, inventory, expenses, vehicle surveys, and timecards.  
+- Provided real-time insights to improve safety and operational efficiency.  
+
+---
+
+## **Dynamic Task Management Framework**  
+📋 **A Modular Solution for Multi-Department Use**  
+- Created a framework in **Power Apps** for dynamic task management.  
+- Included advanced features such as **role-based access controls**, cascading dropdowns, and conditional triggers.  
+
+---
+
+### 🚀 **Want to Learn More?**
+Feel free to explore my [GitHub repositories](#) or contact me for detailed case studies and demos.  
+
 📧 [micahgroom@outlook.com](mailto:micahgroom@outlook.com)  
-📞 (530) 209-6526  
-
----
-
-## About Me
-
-Experienced **Senior IT Specialist** with a strong focus on Microsoft solutions, proactive problem-solving, and delivering exceptional IT support. I specialize in aligning IT services with business needs, enhancing operational efficiency, and creating positive user experiences.
-
----
-
-## Experience
-
-### **Senior IT Specialist**  
-**Mountain Engineering** - Folsom, CA  
-*July 2024 - Present*  
-
-- Implemented **Intune** for managing Windows PCs, Android, and iOS devices.
-- Transitioned company systems from on-prem solutions to **SharePoint Online** and **Azure**.
-- Built **custom apps** in **Power Apps**, **Power Automate**, and **Python** for timecards, job reporting, and vehicle tracking.
-- Centralized data collection using a modular app for **job safety analysis**, inventory, and expense reporting.
-- Developed **API integrations** connecting HR ERP data with Entra ID and ClickTime.
-- Automated workflows with **Power Automate** for dynamic updates and email notifications.
-- Designed **FME Workbench** flows to create dynamic expense reports and integrate with SharePoint.
-- Managed IT infrastructure for a 40-person office move, including **Unifi Access**, VoIP phones, and AV systems.
-- Supervised IT staff, led cross-departmental technology projects, and streamlined operational workflows.
-
-### **IT Technician II**  
-**Mountain F Enterprises** - Folsom, CA  
-*October 2021 - July 2023*  
-
-- Supported and maintained **Exchange/Office 365** environments and **Active Directory**.
-- Managed **MDM systems** (Ivanti MobileIron, IBM Maas360) for over 2,500 assets.
-- Migrated telephony systems from 8x8 to **Zoom Phone** for 60+ users.
-- Configured **SCCM**, **group policies**, and department folder structures.
-- Automated audits for offboarding to improve security and reduce costs.
-- Built a **Synology NAS** for on-site file storage and Microsoft 365 backups.
-
-### **Cage Cashier**  
-**Red Hawk Casino** - Placerville, CA  
-*March 2021 - October 2021*  
-
-### **Assistant Manager**  
-**Domino’s Pizza** - Folsom, CA  
-*February 2020 - March 2021*
-
----
-
-## Education
-
-**Bachelor of Science:** Business Administration (Management Information Systems)  
-California State University, Sacramento  
-
----
-
-## Certifications
-
-- **Microsoft Azure Fundamentals** – Certification Number: I339-8017  
-- **CCNA** – Scheduled for March 2025  
-
----
-
-## Skills
-
-- **Platforms:** Windows 10/11, Microsoft Server 2019, Exchange/Office 365, SharePoint Online  
-- **Programming:** PowerShell, Python, SQL, HTML/CSS  
-- **Virtualization:** VMware, Oracle VirtualBox  
-- **Data Tools:** MySQL, Airtable, Power BI  
-- **Soft Skills:** Customer Service, Troubleshooting, Technical Writing  
-
----
-
-## Highlighted Projects
-
-### 1. **IT Systems Modernization**  
-Transitioned legacy on-prem systems to **SharePoint Online** and **Azure**, consolidating file management and improving collaboration.
-
-### 2. **Custom Timecard App**  
-Developed a **Power Apps** and **Power Automate** solution for dynamic task management, incorporating role-based access and cascading dropdowns.
-
-### 3. **Intune Device Management**  
-Implemented **Intune** to streamline device management for Windows, Android, and iOS, enhancing security and compliance.
-
-### 4. **API Integrations**  
-Built API connections to automate data synchronization between HR ERP, Entra ID, and **ClickTime**.
-
-### 5. **Automated Reports with FME**  
-Designed **FME Workbench** workflows for GIS automation, enabling real-time SharePoint updates and automated expense reporting.
-
----
-
-## Contact Me
-
-Feel free to reach out via email or phone for opportunities, collaborations, or inquiries!  
-**📧 [micahgroom@outlook.com](mailto:micahgroom@outlook.com)**  
-**📞 (530) 209-6526**
+📞 (530) 209-6526
